@@ -3,7 +3,7 @@ Simple Ionic Storage via Key/Value for devices and browser simultaneously.
 
 When you run app on device (android or iOS) key/value save to sqlite storage. But you can develop app in browser (for example Chrome). In this case key/value save to easy browser storage. Its helpful. 
 
-## Usage
+## Installing
 
 First, install the cordova-sqlite-storage plugin:
 ```bash
@@ -66,6 +66,7 @@ import {DBStorage} from "../services/dbstorage.service";
 })
 export class AppModule {}
 ```
+## Usage
 Finally, inject it into any of your components or pages (for example, in src/pages/home/home.ts):
 ```ts: 
 import {DBStorage} from "../../services/dbstorage.service";
