@@ -1,7 +1,10 @@
-# ionic-db-storage
-Simple Ionic Storage via Key/Value for devices and browser simultaneously. 
-
-When you run app on device (android or iOS) key/value save to sqlite storage. But you can develop app in browser (for example Chrome). In this case key/value save to easy browser storage. Its helpful. 
+# Ionic storage toggle (SQLite – local storage)
+This is an example app on ionic, where file has been created in order to make developing process easier and faster. Location of the file:
+```
+/src/services/dbstorage.service.ts
+```
+It switches between local storage and SQLite database based on the envirement app is running on. Local storage is used on desktop browser and SQLite on mobile device.
+This is an example app on ionic, where XXX file has been created in order to make developing process easier and faster. It switches between local storage and SQLite database based on the envirement app is running on. Local storage is used on desktop browser and SQLite on mobile device.
 
 ## Installing
 
