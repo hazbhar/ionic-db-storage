@@ -91,4 +91,4 @@ export class HomePage {
     // remove key/value
     this.dbstorage.removeKey('name');
 ```
-[Watch installing & using in YouTube](https://youtu.be/EmoPmBPZ1lA)
+[Watch installing & using in YouTube - Ionic. SQLite in 12 minutes.](https://youtu.be/EmoPmBPZ1lA)
