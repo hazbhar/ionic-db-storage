@@ -91,3 +91,4 @@ export class HomePage {
     // remove key/value
     this.dbstorage.removeKey('name');
 ```
+[Watch installing & using in YouTube](https://youtu.be/EmoPmBPZ1lA)
