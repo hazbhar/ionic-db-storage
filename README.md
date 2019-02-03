@@ -93,4 +93,3 @@ export class HomePage {
 ```
 [Watch installing & using in YouTube - Ionic. SQLite in 12 minutes.](https://youtu.be/EmoPmBPZ1lA)
 
-[Смотреть на YouTube по-русски -  Ionic. SQLite. Использование базы данных.](https://youtu.be/ObyRvm6k5OQ)
