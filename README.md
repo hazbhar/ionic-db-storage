@@ -6,6 +6,8 @@ This is an example app on ionic, where file has been created in order to make de
 It switches between local storage and SQLite database based on the envirement app is running on. Local storage is used on desktop browser and SQLite on mobile device.
 This is an example app on ionic, where XXX file has been created in order to make developing process easier and faster. It switches between local storage and SQLite database based on the envirement app is running on. Local storage is used on desktop browser and SQLite on mobile device.
 
+[Watch installing & using in YouTube - Ionic. SQLite in 12 minutes.](https://youtu.be/EmoPmBPZ1lA)
+
 ## Installing
 
 First, install the cordova-sqlite-storage plugin:
@@ -91,5 +93,5 @@ export class HomePage {
     // remove key/value
     this.dbstorage.removeKey('name');
 ```
-[Watch installing & using in YouTube - Ionic. SQLite in 12 minutes.](https://youtu.be/EmoPmBPZ1lA)
+
 
